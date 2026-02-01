@@ -1,11 +1,105 @@
 <h1 align="center">Hi 👋, I'm Sahil Mujumdar</h1>
-<h3 align="center">A passionate Data and Cyber Security Analyst from India</h3>
+<h3 align="center">
+🚀 Junior Data Scientist • Applied AI & ML Engineer • GenAI & Agentic AI<br/>
+🔐 Cybersecurity & ☁️ Cloud Systems
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-mujumdar-2ba179268/overlay/about-this-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-mujumdar-2ba179268/overlay/about-this-profile/" height="30" width="40" /></a>
-<a href="https://kaggle.com/sahilmujumdar2003 sahil mujumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilmujumdar2003 sahil mujumdar" height="30" width="40" /></a>
+<p align="center">
+✨ Building intelligent, secure, and explainable AI systems for real-world environments.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I am a **Junior Data Scientist with 6.5+ months of industry experience**, working on applied machine learning and AI-driven systems across analytics, security, and predictive modeling domains.
+
+My interests lie at the intersection of **🤖 Machine Learning, 🧠 Generative AI & Agentic AI, 🔐 Cybersecurity, and ☁️ Cloud Systems**. I focus on **system-level AI design**, where models, data, infrastructure, and security constraints come together in production-oriented environments.
+
+I have previously worked on **government-scale data systems** at the **🏛️ National Informatics Centre (NIC), Government of India**, and gained exposure to **enterprise-grade security and networking concepts** through a **🌐 Zscaler virtual internship**. I also have a **research-oriented background**, with **one published IEEE conference paper** and ongoing research work.
+
+---
+
+## 🧠 Core Focus Areas
+
+- 🤖 Applied Machine Learning & Predictive Analytics  
+- 🧠 Generative AI & Agentic AI Systems  
+- 🔍 Explainable & Reliable AI  
+- 🔐 Cybersecurity & Network-Aware Systems  
+- ☁️ Cloud-Based ML Workflows (GCP)  
+- 🧩 System-Oriented AI Design  
+
+---
+
+## 🚀 Selected Projects
+
+### 🤖 **AIONIC – Autonomous Intelligence Orchestration Network**
+A production-grade **multi-agent AI framework** supporting dynamic role-switching agents, tool orchestration, risk-aware execution permissions, and explainable reasoning pipelines.  
+🔗 https://github.com/MujumdarSahil/AIONIC
+
+---
+
+### 🏥 **MedAgentX – Medical Coding Intelligence Framework**
+A modular AI-assisted framework designed to structure and validate medical coding workflows, emphasizing reliability, domain abstraction, and responsible AI usage in regulated healthcare environments.  
+🔗 https://github.com/MujumdarSahil/MedAgentX
+
+---
+
+### 🔐 **Advanced Ammunition Prediction System**
+An AI-driven forecasting system for predicting ammunition demand and supporting intelligent inventory management in defense logistics environments.  
+🔗 https://github.com/MujumdarSahil/Advanced-ammunition-prediction-system-
+
+---
+
+### 🕵️ **Dark Web Monitoring Simulation**
+A front-end educational simulation demonstrating workflows of dark web monitoring tools, focused on cybersecurity visualization and ethical system design.  
+🔗 https://github.com/MujumdarSahil/Dark-Web-Monitoring-Simulation
+
+---
+
+## 📄 Research & Publications
+
+📌 **DefenseLedger – Blockchain-Powered Ammunition and Supply Chain**  
+Presented at the **6th International Conference of Emerging Technology (INCET 2025)** (IEEE Bangalore Section).
+
+- 🔗 Designed a blockchain-based framework for secure and transparent defense supply chains  
+- 📊 Integrated AI-driven inventory prediction for intelligent logistics decision-making  
+
+---
+
+## 🛠️ Skills & Technologies
+
+**🤖 Machine Learning & AI**  
+Python · Machine Learning · Applied AI · Predictive Analytics · Model Explainability  
+
+**🧠 Generative AI & Agentic AI**  
+Prompt Engineering · Agentic AI Concepts · Multi-Agent Systems · LLM-based Workflows  
+
+**🔐 Cybersecurity & Networking**  
+Network Security · Threat Analysis · Security Monitoring Concepts  
+
+**☁️ Cloud & Systems**  
+Google Cloud Platform (GCP) · Cloud-Based ML Workflows · System-Oriented AI Design  
+
+**🧰 Tools**  
+SQL · Git & GitHub · Flask · Streamlit · Power BI  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sahil-mujumdar-2ba179268/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MujumdarSahil" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="28" width="38"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+🌌 <i>Focused on building AI systems that are secure, explainable, and reliable under real-world constraints.</i>
+</p>
