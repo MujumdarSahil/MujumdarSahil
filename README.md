@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Mujumdar</h1>
 <h3 align="center">
-🚀 Junior Data Scientist • Applied AI & ML Engineer • GenAI & Agentic AI<br/>
+🚀 Data Scientist • Applied AI & ML Engineer • GenAI & Agentic AI<br/>
 🔐 Cybersecurity & ☁️ Cloud Systems
 </h3>
 
