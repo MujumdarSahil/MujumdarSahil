@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Junior Data Scientist with 6.5+ months of industry experience**, working on applied machine learning and AI-driven systems across analytics, security, and predictive modeling domains.
+I am a **Junior Data Scientist with 11.5+ months of industry experience**, working on applied machine learning and AI-driven systems across analytics, security, and predictive modeling domains.
 
 My interests lie at the intersection of **🤖 Machine Learning, 🧠 Generative AI & Agentic AI, 🔐 Cybersecurity, and ☁️ Cloud Systems**. I focus on **system-level AI design**, where models, data, infrastructure, and security constraints come together in production-oriented environments.
 
