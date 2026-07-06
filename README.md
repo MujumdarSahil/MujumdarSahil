@@ -12,22 +12,24 @@
 
 ## 👨‍💻 About Me
 
-I am a **Junior Data Scientist with 11.5+ months of industry experience**, working on applied machine learning and AI-driven systems across analytics, security, and predictive modeling domains.
+I am a **Data Scientist with 1+ Year of industry experience**, working on applied machine learning and AI-driven systems across analytics, security, and predictive modeling domains.
 
-My interests lie at the intersection of **🤖 Machine Learning, 🧠 Generative AI & Agentic AI, 🔐 Cybersecurity, and ☁️ Cloud Systems**. I focus on **system-level AI design**, where models, data, infrastructure, and security constraints come together in production-oriented environments.
+My focus has shifted from "using LLMs" to engineering the systems around them — orchestration layers, shared memory spines, tool-use pipelines, and the failure modes that show up only when agents run long enough to matter. I care about reliability, auditability, and explainability in agentic AI, not just capability demos.
 
 I have previously worked on **government-scale data systems** at the **🏛️ National Informatics Centre (NIC), Government of India**, and gained exposure to **enterprise-grade security and networking concepts** through a **🌐 Zscaler virtual internship**. I also have a **research-oriented background**, with **one published IEEE conference paper** and ongoing research work.
 
 ---
 
-## 🧠 Core Focus Areas
+🧠 Core Focus Areas
 
-- 🤖 Applied Machine Learning & Predictive Analytics  
-- 🧠 Generative AI & Agentic AI Systems  
-- 🔍 Explainable & Reliable AI  
-- 🔐 Cybersecurity & Network-Aware Systems  
-- ☁️ Cloud-Based ML Workflows (GCP)  
-- 🧩 System-Oriented AI Design  
+
+🧩 Agentic AI Systems & Multi-Agent Orchestration
+🧠 LLM Memory Architectures & Contradiction/Consistency Auditing
+🤖 Applied Machine Learning & Predictive Analytics
+🔍 Explainable & Reliable AI
+🔐 Cybersecurity & Network-Aware Systems
+☁️ Cloud-Based ML Workflows (GCP)
+🧰 System-Oriented AI Design (local-first, free-tier, human-in-the-loop)
 
 ---
 
@@ -45,15 +47,14 @@ A modular AI-assisted framework designed to structure and validate medical codin
 
 ---
 
-### 🔐 **Advanced Ammunition Prediction System**
-An AI-driven forecasting system for predicting ammunition demand and supporting intelligent inventory management in defense logistics environments.  
-🔗 https://github.com/MujumdarSahil/Advanced-ammunition-prediction-system-
+### 🧠 MemAudit — Agent Memory Stress-Testing & Auditing Harness (in development)
 
----
+An open-source benchmark and harness for stress-testing AI agent memory systems under contradiction, drift, and long-horizon recall failure. Introduces the Contradiction Resolve Curve, a novel metric for how (and whether) agents reconcile conflicting information injected into memory over time. Designed as a citable, reproducible benchmark rather than a one-off demo.
 
-### 🕵️ **Dark Web Monitoring Simulation**
-A front-end educational simulation demonstrating workflows of dark web monitoring tools, focused on cybersecurity visualization and ethical system design.  
-🔗 https://github.com/MujumdarSahil/Dark-Web-Monitoring-Simulation
+
+### 🧑‍💼 Multi-Agent Job Application System
+
+A full multi-agent pipeline that automates the job search and application loop under human supervision: Profile, Scout, Scorer, Writer, Apply, and Outcome agents sharing a common MongoDB memory spine. Includes LLM-based resume/profile extraction (Groq/Llama), multi-source job scraping (LinkedIn/Indeed via JobSpy, RemoteOK), a FastAPI review-queue dashboard, and semi-autonomous Selenium-based application submission with mandatory human approval before anything goes out.
 
 ---
 
